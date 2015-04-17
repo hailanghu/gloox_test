@@ -1,3 +1,18 @@
+*.sdf
+*.suo
+*.opensdf
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.log
+*.lastbuildstate
+*.idb
+*.filters
+Debug/*
+
 # Compiled Object files
 *.slo
 *.lo
